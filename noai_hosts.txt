@@ -199,7 +199,6 @@
 0.0.0.0 hunts.ai
 0.0.0.0 liveapps.ai
 0.0.0.0 powerusers.ai
-0.0.0.0 claude.ai
 0.0.0.0 covers.ai
 0.0.0.0 artemisia.ai
 0.0.0.0 facet.ai
@@ -1344,7 +1343,6 @@
 0.0.0.0 www.hunts.ai
 0.0.0.0 www.liveapps.ai
 0.0.0.0 www.powerusers.ai
-0.0.0.0 www.claude.ai
 0.0.0.0 www.covers.ai
 0.0.0.0 www.artemisia.ai
 0.0.0.0 www.facet.ai
